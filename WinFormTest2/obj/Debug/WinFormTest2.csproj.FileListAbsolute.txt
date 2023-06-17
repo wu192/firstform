@@ -1,0 +1,11 @@
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\bin\Debug\WinFormTest2.exe.config
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\bin\Debug\WinFormTest2.exe
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\bin\Debug\WinFormTest2.pdb
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\obj\Debug\WinFormTest2.csproj.AssemblyReference.cache
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\obj\Debug\WinFormTest2.csproj.SuggestedBindingRedirects.cache
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\obj\Debug\WinFormTest2.Properties.Resources.resources
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\obj\Debug\WinFormTest2.csproj.GenerateResource.cache
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\obj\Debug\WinFormTest2.csproj.CoreCompileInputs.cache
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\obj\Debug\WinFormTest2.exe
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\obj\Debug\WinFormTest2.pdb
+D:\file\Rider\WinFormTest2\WinFormTest2\WinFormTest2\obj\Debug\WinFormTest2.Form1.resources
